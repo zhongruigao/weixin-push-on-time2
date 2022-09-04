@@ -25,7 +25,7 @@ export const config = {
      */
     USERS: [
       {name: 'Echo', id: "oDRVR6T8ybXNtLL28kLRHeglATZE"}, 
-      {name: '陆远', id: "oDRVR6RBlXwisGljQsAoRhCncxIo"}, 
+      //{name: '陆远', id: "oDRVR6RBlXwisGljQsAoRhCncxIo"}, 
       //{name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
       //{name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
