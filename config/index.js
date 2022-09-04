@@ -57,7 +57,7 @@ export const config = {
       {"type": "生日", "name": "宝贝", "year": "2001", "date": "09-12"},
       {"type": "生日", "name": "哥哥", "year": "2001", "date": "01-28"},
       {"type": "节日", "name": "纪念日", "year": "2023", "date": "11-07"},
-      {"type": "节日", "name": "考研", "year": "2022", "date": "12-25"},
+      //{"type": "节日", "name": "考研", "year": "2022", "date": "12-25"},
     ],
 
     /**
