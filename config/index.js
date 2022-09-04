@@ -10,10 +10,10 @@ export const config = {
     APP_SECRET: "d9b0607698e7f5b4fd9f453c83fe1f4e",
 
     // 模板消息id
-    TEMPLATE_ID: "GSqPR6bq4nyxUIHWq5Xpp2BrgPvfPFo4oNzvAtF_kLk",
+    TEMPLATE_ID: "c92MFH4PUaXUn4sskKFm25XPQRynbH3GKG0VQFMXxHk",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "GSqPR6bq4nyxUIHWq5Xpp2BrgPvfPFo4oNzvAtF_kLk",
+    CALLBACK_TEMPLATE_ID: "	c92MFH4PUaXUn4sskKFm25XPQRynbH3GKG0VQFMXxHk",
 
 
     /**
@@ -30,9 +30,9 @@ export const config = {
       //{name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
-    CALLBACK_USERS: [
-      {name: '自己',id: "oDRVR6RBlXwisGljQsAoRhCncxIo"}, 
-    ],
+//     CALLBACK_USERS: [
+//       {name: '自己',id: "oDRVR6RBlXwisGljQsAoRhCncxIo"}, 
+//     ],
      
     /**
      * 信息配置
@@ -57,7 +57,7 @@ export const config = {
       {"type": "生日", "name": "宝贝", "year": "2001", "date": "09-12"},
       {"type": "生日", "name": "哥哥", "year": "2001", "date": "01-28"},
       {"type": "节日", "name": "纪念日", "year": "2023", "date": "11-07"},
-      //{"type": "节日", "name": "考研", "year": "2022", "date": "12-25"},
+      {"type": "节日", "name": "考研", "year": "2022", "date": "12-25"},
     ],
 
     /**
