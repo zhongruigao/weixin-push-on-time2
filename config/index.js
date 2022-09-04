@@ -4,16 +4,16 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "wx544b2d50b18cdc23",
+    APP_ID: "wx65ba290b2f358f58",
 
     // 公众号APP_SECRET
-    APP_SECRET: "158d1d53029246aef955602f8355809e",
+    APP_SECRET: "d9b0607698e7f5b4fd9f453c83fe1f4e",
 
     // 模板消息id
-    TEMPLATE_ID: "Tp3Fmyxt5yvY-Lwe5KenzCD4E6rQTrVdtm6BwrTCFgA",
+    TEMPLATE_ID: "GSqPR6bq4nyxUIHWq5Xpp2BrgPvfPFo4oNzvAtF_kLk",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "Tp3Fmyxt5yvY-Lwe5KenzCD4E6rQTrVdtm6BwrTCFgA",
+    CALLBACK_TEMPLATE_ID: "GSqPR6bq4nyxUIHWq5Xpp2BrgPvfPFo4oNzvAtF_kLk",
 
 
     /**
@@ -24,14 +24,14 @@ export const config = {
      * ]
      */
     USERS: [
-      {name: '小瑞子', id: "osV6d51DNA077KUDSmBvtYOUTqa4"}, 
-      //{name: '老婆1', id: "2hxOO6VskYv0Kuf-y你懂的,填错狗头打烂RMpuXhk"}, 
+      {name: 'Echo', id: "oDRVR6T8ybXNtLL28kLRHeglATZE"}, 
+      {name: '陆远', id: "oDRVR6RBlXwisGljQsAoRhCncxIo"}, 
       //{name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
       //{name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
-      {name: '自己',id: "osV6d51DNA077KUDSmBvtYOUTqa4"}, 
+      {name: '自己',id: "oDRVR6RBlXwisGljQsAoRhCncxIo"}, 
     ],
      
     /**
@@ -43,7 +43,7 @@ export const config = {
     // 所在省份
     PROVINCE: "山东",
     // 所在城市
-    CITY: "聊城",
+    CITY: "潍坊",
 
     /** 重要节日相关 */
 
@@ -54,9 +54,10 @@ export const config = {
      * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
      */
     FESTIVALS: [
-      {"type": "生日", "name": "小仙友", "year": "2000", "date": "11-26"},
-      {"type": "生日", "name": "小瑞子", "year": "2001", "date": "10-10"},
-      {"type": "节日", "name": "纪念日", "year": "2020", "date": "01-19"},
+      {"type": "生日", "name": "宝贝", "year": "2001", "date": "09-12"},
+      {"type": "生日", "name": "哥哥", "year": "2001", "date": "01-28"},
+      {"type": "节日", "name": "纪念日", "year": "2023", "date": "11-07"},
+      {"type": "节日", "name": "考研", "year": "2022", "date": "12-25"},
     ],
 
     /**
@@ -75,7 +76,7 @@ export const config = {
       * */
     CUSTOMIZED_DATE_LIST: [
       // 在一起的日子
-      {"keyword": "love_day", date: "2020-01-19"},
+      {"keyword": "love_day", date: "2019-11-07"},
       // 结婚纪念日
       //{"keyword": "marry_day", date: "2020-01-04"},
       // 退伍日, 不用可以删掉
